@@ -1,0 +1,18 @@
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8\Price\bin\Debug\Price.exe.config
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8\Price\bin\Debug\Price.exe
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8\Price\bin\Debug\Price.pdb
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8\Price\obj\Debug\Price.exe
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8\Price\obj\Debug\Price.pdb
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8 новая\Price\bin\Debug\Price.exe.config
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8 новая\Price\obj\Debug\Price.exe
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8 новая\Price\obj\Debug\Price.pdb
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8 новая\Price\bin\Debug\Price.exe
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8 новая\Price\bin\Debug\Price.pdb
+C:\Users\пк\Desktop\Практика 4 семестр\Практика 7-8 новая\Price\obj\Debug\Price.csprojResolveAssemblyReference.cache
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\bin\Debug\Price.exe.config
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\bin\Debug\Price.exe
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\bin\Debug\Price.pdb
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\obj\Debug\Price.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\obj\Debug\Price.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\obj\Debug\Price.exe
+C:\Users\пк\Desktop\Практика сдача\Практика 7-8 новая\Price\obj\Debug\Price.pdb
